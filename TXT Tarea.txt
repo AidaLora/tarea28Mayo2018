@@ -1,0 +1,9 @@
+¿Qué es el VMware vCenter Server?
+
+El servidor de vCenter actúa como un único punto de administración central en nuestro entorno de vSphere™ 5.
+
+El software de vCenter Server consiste en multitudes de módulos y servicios y es instalado en un servidor (virtual o físico) con el sistema operativo soportado Windows.
+
+A diferencia de las versiones anteriores, vSphere™ 5 incluye una nueva versión de vCenter Server en modo appliance para entornos con Linux. vCenter Server ofrece funcionalidades Enterprise, como por ejemplo, VMware Distributed Resource Scheduler (DRS), VMware High Availability (HA), VMware Fault Tolerance(FT), VMware vMotion y VMware Storage vMotion.
+
+Una sola instancia de vCenter Server soporta un máximo de 1.000 hosts ESXi y 15.000 máquinas virtuales registradas (10.000 máquinas virtuales encendidas). Sin embargo, en el hipotético caso que necesitaras gestionar más de 1.000 servidores ESXi o 10.000 máquinas virtuales, tendrías que comprar otra licencia de vCenter y conectar estos sistemas de vCenter en lo que se denomina un group en mode Linked.
